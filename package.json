@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "tsx watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/yuyakondo333/udemy-typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "tsx": "^4.20.3",
     "typescript": "^5.9.2"
   }
 }
